@@ -9,7 +9,7 @@ public class Drums extends Musical{
      }
 	public Drums(String name, boolean hasKeys, boolean hasStrings) {
 		
-		this.name=name;
+        this.name=name;
         this.hasKeys=hasKeys;
         this.hasStrings = hasStrings;
 	}
